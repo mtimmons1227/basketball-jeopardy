@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
-import { Card } from "@/components/ui/Card";
-import { Button } from "@/components/ui/Button";
-import { CardContent } from "@/components/ui/CardContent";
+import { Card } from "@components/ui/Card";
+import { Button } from "@components/ui/Button";
+import { CardContent } from "@components/ui/CardContent";
 import { motion } from "framer-motion";
 import { Speaker } from "lucide-react";
 
